@@ -3,7 +3,7 @@
 
 
 def position_taken?(board, index)
-<<<<<<< HEAD
+#<<<<<<< HEAD
     if board[index] != " " && board[index] != "" && board[index] != nil
     true
     else
@@ -11,7 +11,7 @@ def position_taken?(board, index)
     end
 end
 
-=======
+#=======
     if board[index] != " "
     true
     
@@ -37,4 +37,4 @@ position_taken?(board, index)
 
 =======
 =end
->>>>>>> 3c44be77d3cc6a2907cd9a91cef5175ec8c8f040
+#>>>>>>> 3c44be77d3cc6a2907cd9a91cef5175ec8c8f040
